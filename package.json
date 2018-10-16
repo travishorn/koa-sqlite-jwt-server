@@ -1,0 +1,21 @@
+{
+  "name": "koajwt-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Travis Horn <me@travishorn.com> (https://travishorn.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "jsonwebtoken": "^8.3.0",
+    "knex": "^0.15.2",
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "sqlite3": "^4.0.2"
+  }
+}
