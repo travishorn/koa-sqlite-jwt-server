@@ -10,13 +10,13 @@
   "author": "Travis Horn <me@travishorn.com> (https://travishorn.com)",
   "license": "MIT",
   "dependencies": {
-    "@koa/cors": "^2.2.2",
+    "@koa/cors": "^3.0.0",
     "bcrypt-nodejs": "0.0.3",
-    "jsonwebtoken": "^8.3.0",
-    "knex": "^0.15.2",
-    "koa": "^2.5.3",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.20.10",
+    "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
-    "koa-router": "^7.4.0",
-    "sqlite3": "^4.0.2"
+    "koa-router": "^8.0.8",
+    "sqlite3": "^4.1.1"
   }
 }
